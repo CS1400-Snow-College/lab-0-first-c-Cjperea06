@@ -1,0 +1,15 @@
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/bin/Debug/net8.0/lab-0-first-c-Cjperea06
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/bin/Debug/net8.0/lab-0-first-c-Cjperea06.deps.json
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/bin/Debug/net8.0/lab-0-first-c-Cjperea06.runtimeconfig.json
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/bin/Debug/net8.0/lab-0-first-c-Cjperea06.dll
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/bin/Debug/net8.0/lab-0-first-c-Cjperea06.pdb
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.AssemblyInfoInputs.cache
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.AssemblyInfo.cs
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.csproj.CoreCompileInputs.cache
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.sourcelink.json
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.dll
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/refint/lab-0-first-c-Cjperea06.dll
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.pdb
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/lab-0-first-c-Cjperea06.genruntimeconfig.cache
+/Users/cjperea/my-code-dir/lab-0-first-c-Cjperea06/obj/Debug/net8.0/ref/lab-0-first-c-Cjperea06.dll
